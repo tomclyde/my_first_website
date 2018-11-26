@@ -1,0 +1,27 @@
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+   text-align:left;
+   color:white;
+}
+
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+
+
+footer #content {
+  text-align: center;
+  color: black;
+}
